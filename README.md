@@ -1,6 +1,6 @@
 # Assert-AI-Pose
 
-Pose estimation, as the name suggests is the estimation of some poses, pertaining to it's use cases from an image or video (sources can vary). 
+Pose estimation, as the name suggests is the estimation of some poses, pertaining to it's use cases from an image or video (sources can vary).<br>
 Generally in the Computer Vision environment, most tasks are done using pre-existing CNN architecture, but instead of this we strived to achieve similar results using a much different approach. 
 We mainly used an open source library https://google.github.io/mediapipe{Mediapipe}, which identifies some key landmarks on the general human body, and this information about the landmarks can be used and manipulated to get some interesting results.
 
