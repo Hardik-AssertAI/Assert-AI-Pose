@@ -1,0 +1,3 @@
+Average validation F1 score: 0.77
+Test loss: 83.24175262451172 accuracy: 0.4869193732738495
+Average test F1 score: 0.17
